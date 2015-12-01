@@ -9,6 +9,9 @@
 
 determine_letter_indx <- function(char) {
 
+  #make lower case
+  char <- tolower(char)
+
   # Determine if the char parameter is a character vector
   if (!is.character(char)) {
     stop('char must be a character vector')
