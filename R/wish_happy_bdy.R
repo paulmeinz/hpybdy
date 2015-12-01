@@ -23,6 +23,6 @@ wish_happy_bday <- function(name) {
        col = sample(1:100, 9, replace = TRUE), cex = 2)
 
   indexes <- determine_letter_indx(name)
-  text(1:length(indexes)/length(indexes)-.1,.4, labels = letters[indexes],
-       col = sample(1:100, length(indexes), replace = TRUE), cex = 3)
+  text(1:length(indexes)/length(indexes)-.12,.4, labels = toupper(letters[indexes]),
+       col = sample(1:100, length(indexes)+1, replace = TRUE), cex = 3)
 }
