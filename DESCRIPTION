@@ -3,6 +3,6 @@ Title: A package containing functions to wish someone happy birthday in an R-sor
 Version: 0.0.0.9000
 Authors@R: person("Paul", "Meinz", email = "paulmeinz@gmail.com", role = c("aut", "cre"))
 Description: This package contains a set of functions that wish someone a happy birthday.
-Depends: R (>= 3.2.2)
+Depends: R (>= 3.2.0)
 License: What license is it under?
 LazyData: true
