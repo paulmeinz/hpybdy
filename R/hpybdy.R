@@ -12,4 +12,6 @@
 #'
 #' @docType package
 #' @name hpybdy
+#'
+#' @export
 NULL

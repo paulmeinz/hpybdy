@@ -1,6 +1,6 @@
 Package: hpybdy
 Title: A package containing functions to wish someone happy birthday in an R-sort-of-way
-Version: 0.0.0.9000
+Version: 1.0.0.0
 Authors@R: person("Paul", "Meinz", email = "paulmeinz@gmail.com", role = c("aut", "cre"))
 Description: This package contains a set of functions that wish someone a happy birthday.
 Depends: R (>= 3.2.0)

@@ -6,6 +6,8 @@
 #'
 #' @section Warning:
 #' This function does not yet support names with spaces
+#'
+#' @export
 
 wish_happy_bday <- function(name) {
 
